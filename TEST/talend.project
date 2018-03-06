@@ -393,4 +393,5 @@
   <TalendProperties:User xmi:id="_cu4mUiDwEeirGrOEQtnlBA" login="admin@company.com" firstName="Admin" lastName="Admin" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_c7KHwCDwEeirGrOEQtnlBA" login="dev1@company.com" firstName="dev1" lastName="dev1" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_R-s54SDzEeipndPyVOyuqw" login="user@talend.com"/>
+  <TalendProperties:User xmi:id="_45yOcSDzEei2IN1Vw0W4qw" login="gituser@company.com" firstName="git" lastName="user" type="DI" additionnalData="{}"/>
 </xmi:XMI>
